@@ -1,0 +1,42 @@
+{
+    "historico": [],
+    "semana": {
+        "Segunda": {
+            "treino": "Upper A",
+            "feito": false
+        },
+        "Terça": {
+            "treino": "Lower A",
+            "feito": false
+        },
+        "Quarta": {
+            "treino": "Cardio",
+            "feito": false
+        },
+        "Quinta": {
+            "treino": "Upper B",
+            "feito": false
+        },
+        "Sexta": {
+            "treino": "Lower B",
+            "feito": false
+        },
+        "Sábado": {
+            "treino": "Descanso",
+            "feito": false
+        },
+        "Domingo": {
+            "treino": "Descanso",
+            "feito": false
+        }
+    },
+    "ciclo": 1,
+    "medidas": [],
+    "dias_treino": [
+        "Segunda",
+        "Terça",
+        "Quarta",
+        "Quinta",
+        "Sexta"
+    ]
+}
